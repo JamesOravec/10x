@@ -1,0 +1,9 @@
+10xGenomics/**
+.pytest_cache
+**/__pycache__
+**/__pycache__/**
+bin
+include
+manage.py
+pyvenv.cfg
+10xGenomics
